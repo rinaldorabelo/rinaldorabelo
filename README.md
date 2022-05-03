@@ -4,6 +4,7 @@
 - I’m looking to collaborate on all types of projects.
 - Currently I'm not accepting job offers, but I will keep uptading this page with personal projects.
 - I speak Portuguese and English.
+<meta charset="UTF-8">
 <br>
 
 - Olá, eu sou @rinaldorabelo
@@ -11,7 +12,7 @@
 - Atualmente estou estudando Análise e Desenvolvimento de Sistemas.
 - Quero colaborar com todo tipo de projeto.
 - No momento não estou aceitando ofertas de trabalho, mas estarei atualizando essa página com meus projetos pessoais.
-- Falo ingl
+- Falo inglês e português.
 
 <!---
 rinaldorabelo/rinaldorabelo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
